@@ -1,4 +1,6 @@
 # Optimal-ML1-criteria
+License: MIT License
+
 Instructions:
 - Run the numbered files in the ascending order
 - Files with the same number can run simultaneously
