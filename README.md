@@ -1,4 +1,4 @@
-# Optimal-ML1-criteria
+# Optimal-MinL1-criteria
 License: MIT License
 
 Instructions:
